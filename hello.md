@@ -26,6 +26,6 @@
 
 히스토리 테스트
 
-히스토리 테스트
+main에서 테스트
 
-conflict2 테스트
+conflict 테스트
