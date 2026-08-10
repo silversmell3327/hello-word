@@ -5,3 +5,5 @@
 stg에서 파일을 revert하고 다시 병합하면 해당 파일이 없어지는 확인
 
 rebase확인
+
+rebase진짜 확인
